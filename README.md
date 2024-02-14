@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://leetcode.cn/u/unruffled-6oldstinev9w/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="蝼蚁" height="30" width="40" /></a>
+<a href="/https://leetcode.cn/u/unruffled-6oldstinev9w/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="蝼蚁" height="30" width="40" /></a>
 <a href="/http://123.57.146.208:8090/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://123.57.146.208:8090/rss.xml" height="30" width="40" /></a>
 </p>
 
