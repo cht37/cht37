@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tengx5383@gmail.com**
 
-- 📄 Know about my experiences [blog.tengx5383.top](blog.tengx5383.top)
+- 📄 Know about my experiences [blog.tengx5383.top](http://blog.tengx5383.top)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
